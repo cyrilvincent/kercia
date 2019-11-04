@@ -1,0 +1,17 @@
+D:\CVC\ATP\kercia\Kercia.Test\bin\Debug\netcoreapp2.2\NUnit3.TestAdapter.dll
+D:\CVC\ATP\kercia\Kercia.Test\bin\Debug\netcoreapp2.2\NUnit3.TestAdapter.pdb
+D:\CVC\ATP\kercia\Kercia.Test\bin\Debug\netcoreapp2.2\nunit.engine.netstandard.dll
+D:\CVC\ATP\kercia\Kercia.Test\bin\Debug\netcoreapp2.2\Kercia.Test.deps.json
+D:\CVC\ATP\kercia\Kercia.Test\bin\Debug\netcoreapp2.2\Kercia.Test.runtimeconfig.json
+D:\CVC\ATP\kercia\Kercia.Test\bin\Debug\netcoreapp2.2\Kercia.Test.runtimeconfig.dev.json
+D:\CVC\ATP\kercia\Kercia.Test\bin\Debug\netcoreapp2.2\Kercia.Test.dll
+D:\CVC\ATP\kercia\Kercia.Test\bin\Debug\netcoreapp2.2\Kercia.Test.pdb
+D:\CVC\ATP\kercia\Kercia.Test\bin\Debug\netcoreapp2.2\Kercia.Model.dll
+D:\CVC\ATP\kercia\Kercia.Test\bin\Debug\netcoreapp2.2\Kercia.Model.pdb
+D:\CVC\ATP\kercia\Kercia.Test\obj\Debug\netcoreapp2.2\Kercia.Test.csprojAssemblyReference.cache
+D:\CVC\ATP\kercia\Kercia.Test\obj\Debug\netcoreapp2.2\Kercia.Test.csproj.CoreCompileInputs.cache
+D:\CVC\ATP\kercia\Kercia.Test\obj\Debug\netcoreapp2.2\Kercia.Test.AssemblyInfoInputs.cache
+D:\CVC\ATP\kercia\Kercia.Test\obj\Debug\netcoreapp2.2\Kercia.Test.AssemblyInfo.cs
+D:\CVC\ATP\kercia\Kercia.Test\obj\Debug\netcoreapp2.2\Kercia.Test.csproj.CopyComplete
+D:\CVC\ATP\kercia\Kercia.Test\obj\Debug\netcoreapp2.2\Kercia.Test.dll
+D:\CVC\ATP\kercia\Kercia.Test\obj\Debug\netcoreapp2.2\Kercia.Test.pdb

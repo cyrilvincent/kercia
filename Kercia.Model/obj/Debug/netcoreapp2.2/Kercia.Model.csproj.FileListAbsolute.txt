@@ -1,0 +1,11 @@
+D:\CVC\ATP\kercia\Kercia.Model\bin\Debug\netcoreapp2.2\Kercia.Model.deps.json
+D:\CVC\ATP\kercia\Kercia.Model\bin\Debug\netcoreapp2.2\Kercia.Model.dll
+D:\CVC\ATP\kercia\Kercia.Model\obj\Debug\netcoreapp2.2\Kercia.Model.csprojAssemblyReference.cache
+D:\CVC\ATP\kercia\Kercia.Model\obj\Debug\netcoreapp2.2\Kercia.Model.csproj.CoreCompileInputs.cache
+D:\CVC\ATP\kercia\Kercia.Model\obj\Debug\netcoreapp2.2\Kercia.Model.AssemblyInfoInputs.cache
+D:\CVC\ATP\kercia\Kercia.Model\obj\Debug\netcoreapp2.2\Kercia.Model.AssemblyInfo.cs
+D:\CVC\ATP\kercia\Kercia.Model\bin\Debug\netcoreapp2.2\Kercia.Model.runtimeconfig.json
+D:\CVC\ATP\kercia\Kercia.Model\bin\Debug\netcoreapp2.2\Kercia.Model.runtimeconfig.dev.json
+D:\CVC\ATP\kercia\Kercia.Model\bin\Debug\netcoreapp2.2\Kercia.Model.pdb
+D:\CVC\ATP\kercia\Kercia.Model\obj\Debug\netcoreapp2.2\Kercia.Model.dll
+D:\CVC\ATP\kercia\Kercia.Model\obj\Debug\netcoreapp2.2\Kercia.Model.pdb
